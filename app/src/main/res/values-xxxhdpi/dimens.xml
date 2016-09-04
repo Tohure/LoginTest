@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_top_logo">105dp</dimen>
+    <dimen name="margin_left_box">40dp</dimen>
+    <dimen name="margin_top_box">50dp</dimen>
+</resources>

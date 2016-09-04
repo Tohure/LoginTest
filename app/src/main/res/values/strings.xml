@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Login Evaluation</string>
+    <string name="hint_email">Ingrese Email</string>
+    <string name="hint_password">Password</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="robotandroid">RobotAndroid</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- alertas -->
+    <string name="warning_email_empty">El email no puede estar vacío</string>
+    <string name="warning_email_invalid">Email Inválido</string>
+    <string name="warning_password_empty">Password Vacia</string>
+
+    <!-- mensajes de inicio de sesión-->
+    <string name="loading_empty">Cargando…</string>
+    <string name="loading_register">Mandando petición de registro…</string>
+    <string name="loading_login">Iniciando Sesión…</string>
+
+    <!-- mensajes info-->
+    <string name="info_registered_template">Registrado. ObjectId: %s</string>
+    <string name="info_registered_success">Registro Correcto</string>
+    <string name="info_logged_in">Sessión Iniciada. ObjectId: %s</string>
+
+
+</resources>
